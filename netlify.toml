@@ -1,5 +1,5 @@
 [build]
-  functions = "netlify/functions"
+  functions = "넷리파이/함수"
 
 [[headers]]
   for = "/*"
